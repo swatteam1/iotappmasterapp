@@ -1,4 +1,4 @@
-package com.iotproject.iotappmasterapp;
+package com.example.appmobile;
 
 import org.junit.Test;
 

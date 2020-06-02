@@ -1,2 +1,2 @@
-rootProject.name='iotappmasterapp'
+rootProject.name='AppMobile'
 include ':app'
